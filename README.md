@@ -49,6 +49,8 @@ After importing:
 
 You should expect errors at this stage.
 
+[This tutorial from Microsoft walks you through the required steps.](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/export-import-app-package?source=recommendations)
+
 ---
 
 ## 6. Debugging Tasks (Expected)
